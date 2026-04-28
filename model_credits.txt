@@ -1,0 +1,28 @@
+player character and Animation (Suzie) by https://www.mixamo.com/
+
+room - https://sketchfab.com/3d-models/hallway-with-baked-lighting-f5de5cfd55474cbaa6736a483d68bbf1
+
+main object
+plant
+fake: https://www.cgtrader.com/free-3d-models/plant/pot-plant/indoor-plant-nr-3
+real: https://www.cgtrader.com/free-3d-models/household/other/cc0-plant-pot
+
+shelf
+real: https://www.cgtrader.com/free-3d-models/interior/house-interior/game-ready-bookcase
+fake: https://www.cgtrader.com/free-3d-models/interior/office-interior/bookshelf-2bc2e622-3014-49c8-a5be-f71064e2c298
+
+clock
+real: https://www.cgtrader.com/free-3d-models/household/household-tools/cc0-wall-clock-3 
+fake: https://www.cgtrader.com/free-3d-models/interior/office-interior/clock-bge-cycles-or-with-constraints-for-animations
+
+cup
+real: https://www.cgtrader.com/free-3d-models/interior/kitchen/white-cup-d0157a46-cee7-483c-8a20-19d6b8453b3d
+fake: https://www.cgtrader.com/items/3139314/download-page
+
+table (adjust color)
+https://www.cgtrader.com/free-3d-models/furniture/table/old-vintage-used-western-round-saloon-table
+
+special object
+chair: https://sketchfab.com/3d-models/old-chair-657c79a880a34c2a8383e35bda110ca7
+table: https://www.cgtrader.com/free-3d-models/furniture/furniture-set/low-poly-uv-mapped-desktable
+light: https://www.cgtrader.com/items/2369196/download-page
