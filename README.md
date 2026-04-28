@@ -1,3 +1,15 @@
+
+
+https://github.com/user-attachments/assets/a722a20a-8ac8-4372-ae6f-06178a31b3a5
+
+
+
+
+
+
+
+
+
 # finalproject_3Dgame
 
 ...You will appear in small hallway
@@ -15,3 +27,5 @@
   E - dancing
   Q- posing
   ESC - close program
+
+  ## All reference in file audio_credits.txt/model_credits.txt/font_credit.txt
